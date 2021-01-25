@@ -6,7 +6,7 @@ date: 2021-01-25T09:02:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/mt-emily.jpg
+  overlay_image: /assets/images/mt-emily.JPG
   actions:
     - label: "Get Your Quote"
       url: "/#quote"
