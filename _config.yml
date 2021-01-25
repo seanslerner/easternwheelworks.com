@@ -37,6 +37,9 @@ minimal_mistakes_skin: "neon"
 
 footer:
   links:
+    - label: "sean@easternwheelworks.com"
+      icon: "far fa-fw fa-envelope"
+      url: "mailto:sean@easternwheelworks.com"
     - label: "@easternwheelworks"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/easternwheelworks"
