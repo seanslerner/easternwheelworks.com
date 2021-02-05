@@ -47,6 +47,8 @@ footer:
 atom_feed:
   path: false
 
+logo: "/assets/images/eastern-wheelworks-logo.png"
+
 include: ["_pages"]
 
 # Exclude from processing.
