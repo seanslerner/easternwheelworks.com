@@ -15,3 +15,5 @@ excerpt: "Located in Eastern Oregon, we are an independent wheelbuilding and ser
 ---
 
 {% include contact_form.html %}
+
+{% include brand_logos.html %}
