@@ -5,7 +5,7 @@
       {% if site.footer.links %}
         {% for link in site.footer.links %}
           {% if link.label and link.url %}
-            <li style="display: inline-block; padding-top: 5px; padding-bottom: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 0.75em; text-transform: none;"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true" style="color: #fff6fb;"></i> <a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
+            <li style="padding-top: 5px; padding-bottom: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 0.75em; text-transform: none;"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true" style="color: #fff6fb;"></i> <a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
           {% endif %}
         {% endfor %}
       {% endif %}
@@ -16,7 +16,12 @@
 
   <div class="feature__item">
     <h3>Opening hours</h3>
-    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif;font-size: 0.75em;">By appointment only.<br>Please contact us by email to schedule an appointment.</p>
+    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif;font-size: 0.75em;">Wed - Sun &middot; 9 - 4.<br>By appointment only.<br>Please contact us by text or email<br>to schedule an appointment.</p>
+  </div>
+
+  <div class="feature__item">
+    <h3>&nbsp;</h3>
+    <p style="font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif;font-size: 0.75em;">1211 Washington Ave<br>La Grande, OR 97850</p>
   </div>
 </div>
 
