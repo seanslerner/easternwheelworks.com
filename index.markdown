@@ -15,8 +15,8 @@ gallery:
   - url: /assets/images/shop-front.jpg
     image_path: /assets/images/shop-front.jpg
     alt: "Eastern Wheelworks"
-  - url: /assets/images/fall-riding.jpg
-    image_path: /assets/images/fall-riding.jpg
+  - url: /assets/images/fall-riding.JPG
+    image_path: /assets/images/fall-riding.JPG
     alt: "Fall Riding"
 ---
 
