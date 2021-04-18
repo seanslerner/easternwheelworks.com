@@ -1,5 +1,7 @@
 main:
   - title: "Home"
     url: /
+  - title: "Service"
+    url: /service
   - title: "Contact"
     url: /#quote
