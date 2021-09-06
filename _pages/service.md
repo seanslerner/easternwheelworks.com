@@ -10,5 +10,7 @@ header:
 excerpt: "Handbuilt wheels and quality bicycle service."
 ---
 
+{% include service_announcement.html %}
+
 {% include service.html %}
 

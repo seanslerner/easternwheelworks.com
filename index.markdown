@@ -20,7 +20,8 @@ gallery:
     alt: "Fall Riding"
 ---
 
-{% include gallery %}
+{% include service_announcement.html %}
 
+{% include gallery %}
 
 {% include contact_form.html %}
