@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/mt-emily.JPG
-excerpt: "Located in Eastern Oregon, we are an independent wheelbuilding and suspension servicing bicycle shop."
+excerpt: "Located in Eastern Oregon, we are an independent wheelbuilding and suspension service bicycle shop."
 gallery:
   - url: /assets/images/parent-trap.jpg
     image_path: /assets/images/parent-trap.jpg
