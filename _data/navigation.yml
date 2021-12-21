@@ -1,4 +1,6 @@
 main:
+  - title: "Demos"
+    url: /demos
   - title: "Bikes"
     url: /bikes
   - title: "Service"
