@@ -17,6 +17,10 @@ feature_row:
     alt: "Esker Cycles"
     title: "Esker Cycles"
     excerpt: "At the core of Esker's design and product philosophy is making bikes that you will enjoy throughout the entire ride, no matter where the trail takes you. "
+  - image_path: /assets/images/banshee-bike-page.jpg
+    alt: "Banshee Bikes"
+    title: "Banshee Bikes"
+    excerpt: "Real Bikes for Real Riders"
 ---
 
 
