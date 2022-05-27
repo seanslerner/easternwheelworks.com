@@ -21,7 +21,7 @@
 title: Eastern Wheelworks
 email: sean@easternwheelworks.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Located in Eastern Oregon, we are an independent wheelbuilding and servicing business.
+  Located in Eastern Oregon, we are an independent mountain bike shop specializing in suspension service and wheel building.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://easternwheelworks.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
