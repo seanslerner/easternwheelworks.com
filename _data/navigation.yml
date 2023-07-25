@@ -1,9 +1,9 @@
 main:
-  - title: "Demos"
+  - title: "Services"
+    url: /services
+  - title: "Demos / Rentals"
     url: /demos
   - title: "Bikes"
     url: /bikes
-  - title: "Service"
-    url: /service
   - title: "Contact"
     url: /#contact

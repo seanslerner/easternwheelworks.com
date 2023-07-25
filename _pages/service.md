@@ -1,16 +1,14 @@
 ---
-title: "Service"
+title: " "
 layout: splash
-permalink: /service
+permalink: /services
 date: 2021-01-25T09:02:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/conley-creek.jpg
-excerpt: "Handbuilt wheels and quality bicycle service."
+  overlay_image: /assets/images/fox-x2-service.jpg
+excerpt: "Quality Service"
 ---
-
-{% include service_announcement.html %}
 
 {% include service.html %}
 

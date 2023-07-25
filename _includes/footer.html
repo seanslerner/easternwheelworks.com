@@ -5,7 +5,7 @@
       {% if site.footer.links %}
         {% for link in site.footer.links %}
           {% if link.label and link.url %}
-            <li style="padding-top: 5px; padding-bottom: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 0.75em; text-transform: none;"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true" style="color: #fff6fb;"></i> <a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
+            <li style="padding-top: 5px; padding-bottom: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 0.75em; text-transform: none;"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true" style="color: #EDEFF3;"></i> <a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a></li>
           {% endif %}
         {% endfor %}
       {% endif %}
@@ -25,4 +25,4 @@
   </div>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} &middot; La Grande, OR</div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} &middot; est. 2021 &middot; La Grande, OR</div>
