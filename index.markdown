@@ -18,8 +18,8 @@ gallery:
   - url: /assets/images/shop-front.jpg
     image_path: /assets/images/bmx-shop.JPG
     alt: "Eastern Wheelworks"
-  - url: /assets/images/fall-riding.JPG
-    image_path: /assets/images/terry.JPG
+  - url: /assets/images/terry.jpg
+    image_path: /assets/images/terry.jpg
     alt: "Fall Riding"
 ---
 
