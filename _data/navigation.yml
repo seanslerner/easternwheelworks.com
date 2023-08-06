@@ -7,3 +7,5 @@ main:
     url: /bikes
   - title: "Contact"
     url: /#contact
+  - title: "B2B"
+    url: /b2b
