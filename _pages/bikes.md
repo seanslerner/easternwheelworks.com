@@ -25,6 +25,10 @@ feature_row:
     alt: "Esker Cycles"
     title: "Esker Cycles"
     excerpt: "At the core of Esker's design and product philosophy is making bikes that you will enjoy throughout the entire ride, no matter where the trail takes you. "
+  - image_path: /assets/images/sandm-bikes.jpg
+    alt: "S&M Bikes"
+    title: "S&M Bikes"
+    excerpt: "Founded mid 1987 by friends Greg “Scott” Swingrover and Chris “Mad Dog” Moeller, S&M Bikes was created to craft BMX bikes that could handle the use and abuse the founders and their friends were dishing out."
 ---
 
 {% include bikes_include.html %}
