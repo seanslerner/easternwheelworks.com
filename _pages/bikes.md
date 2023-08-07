@@ -6,7 +6,7 @@ date: 2021-01-25T09:02:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
-  overlay_image: /assets/images/transition-bike.jpg
+  overlay_image: /assets/images/transition-bike.JPG
 # excerpt: "Handbuilt wheels and quality bicycle service."
 feature_row:
   - image_path: /assets/images/pivot-logo.png
