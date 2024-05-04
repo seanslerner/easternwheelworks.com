@@ -7,9 +7,9 @@ header:
   overlay_color: "#141B18"
   overlay_filter: "0.2"
   overlay_image: /assets/images/doin-time-jump.jpg
-  actions:
-    - label: "Schedule Service"
-      url: "https://site.booxi.com/easternwheelworks"
+  # actions:
+  #   - label: "Schedule Service"
+  #     url: "https://site.booxi.com/easternwheelworks"
 excerpt: "Eastern Oregon's Mountain Bike Shop"
 gallery:
   - url: /assets/images/parent-trap.jpg
