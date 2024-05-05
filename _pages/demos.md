@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/pivot-firebird-on-trail.jpg
 # excerpt: "Handbuilt wheels and quality bicycle service."
-excerpt: "Demos & Rentals"
+excerpt: "Reserve A Bike"
 ---
 
 {% include demos.html %}
