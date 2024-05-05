@@ -208,16 +208,21 @@
   <div class="feature__wrapper" style="border-bottom: 0;">
     <div style="display: flex;">
       <div style="flex-grow: 1;">
-        <p>We currently have the following bikes available to rent:</p>
-        <ul>
-          <li>Banshee Rune (S, M, L, XL)</li>
-          <li>Banshee Legend 27.5 (L)</li>
-        </ul>
-        <p>To reserve your rental, call us at 541-786-5523 or email us at sean@easternwheelworks.com</p>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.1.1/iframeResizer.min.js"></script>
+<div>
+  <iframe title="Live booking" id="brm-online-booking" src="https://us.bikerentalmanager.com/book.html?shop=easternwheelworks&amp;iframe_resizer=4.1.1" style="width: 1px; min-width: 100%" frameborder="no" scrolling="no"></iframe>
+</div>
+<script type="text/javascript">
+  iFrameResize(
+    {
+      heightCalculationMethod: 'taggedElement',
+      checkOrigin: false,
+    },
+    '#brm-online-booking'
+  );
+</script>
       </div>
-      <div style="flex-grow: 1; max-width: 500px;">
-        <img src="/assets/images/banshee-rune.jpg" />
-      </div>
+      
     </div>
   </div>
 </div>
