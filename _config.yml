@@ -50,7 +50,7 @@ footer:
 atom_feed:
   path: false
 
-logo: "/assets/images/eastern-wheelworks-logo.png"
+logo: "/assets/images/eastern-dm-logo.png"
 
 include: ["_pages"]
 
