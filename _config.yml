@@ -21,7 +21,7 @@
 title: Eastern Wheelworks
 email: sean@easternwheelworks.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Located in Eastern Oregon, we are an independent mountain bike shop specializing in suspension service and wheel building.
+  Located in La Grande, Oregon, Eastern Wheelworks is a rider owned independent bike shop dedicated to supporting those who love to ride. Shocks, forks, wheels, brakes - whatever you've got, we can service it. We specialize in factory level suspension service and custom wheel builds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://easternwheelworks.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
