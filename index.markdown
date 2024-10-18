@@ -10,7 +10,7 @@ header:
   # actions:
   #   - label: "Schedule Service"
   #     url: "https://site.booxi.com/easternwheelworks"
-excerpt: "Eastern Oregon's Mountain Bike Shop"
+excerpt: "Eastern Oregon's Mountain Bike & BMX Shop"
 gallery:
   - url: /assets/images/parent-trap.jpg
     image_path: /assets/images/eph.jpg
